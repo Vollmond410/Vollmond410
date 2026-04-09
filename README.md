@@ -1,16 +1,15 @@
-## Hi there 👋
+<h1 align="center">Привет! 👋 Я Vollmond646204</h1>
 
-<!--
-**Vollmond410/Vollmond410** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+  <img src="https://github.com/Vollmond646204/Vollmond646204/blob/main/assets/banner.png" width="100%" /> <!-- если есть баннер -->
+</p>
 
-Here are some ideas to get you started:
+### 🔥 Статистика
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Vollmond646204&show_icons=true&theme=tokyonight&locale=ru)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Vollmond646204&layout=compact&theme=tokyonight&locale=ru)
+
+![Streak](https://streak-stats.demolab.com/?user=Vollmond646204&theme=tokyonight&locale=ru)
+
+![Trophies](https://github-profile-trophy.vercel.app/?username=Vollmond646204&theme=tokyonight&column=3)
