@@ -13,3 +13,5 @@
 ![GitHub Streak](https://streak-stats.demolab.com/?user=Vollmond410&theme=tokyonight&locale=ru&hide_total_contributions=true)
 
 ![Trophies](https://github-profile-trophy.vercel.app/?username=Vollmond410&theme=tokyonight&column=3&margin-w=15&margin-h=15)
+
+<image-card alt="GitHub Activity" src="https://github-readme-activity-graph.vercel.app/?username=Vollmond410&theme=tokyonight&hide_border=true&area=true" ></image-card>
