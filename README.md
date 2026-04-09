@@ -1,7 +1,7 @@
-<h1 align="center">Привет! 👋 Я Vollmond646204</h1>
+<h1 align="center">Привет! 👋 Я Vollmond410</h1>
 
 <p align="center">
-  <img src="https://github.com/Vollmond646204/Vollmond410/blob/main/assets/banner.png" width="100%" /> <!-- если есть баннер -->
+  <img src="https://github.com/Vollmond410/Vollmond410/blob/main/assets/banner.png" width="100%" /> <!-- если есть баннер -->
 </p>
 
 ### 🔥 Статистика
